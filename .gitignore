@@ -24,3 +24,7 @@ yarn-error.log*
 
 # PyCharm project config
 .idea
+
+# Ignore js file
+*.js
+*.jsx
